@@ -7,3 +7,10 @@ class baseClass final {
         cout << "Hallo saya Function dari base class";
     }
 };
+
+class baseClass1 {
+public:
+    virtual void perkenalan() {
+        cout << "Hallo saya Function dari base class";
+    }
+};
